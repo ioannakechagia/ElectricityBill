@@ -11,5 +11,6 @@ This program calculates the electricity bill for a specific region's electricity
    ΛHP=TK+ΠX−ΠΣ−EP+TAΠE
 
 3. Additional Fees (ΛΤ):
-   - The total additional fees are calculated as:
+
+   The total additional fees are calculated as:
    ΛT=TNERIT+TAΠ
